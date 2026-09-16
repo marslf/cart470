@@ -35,6 +35,10 @@ Wish list:
 - complex interaction for performance / exhibition
 - generate something abstract by fusing the content and the user interactions
 
+Michael created a beautiful art board to have at least a visual to show VK Preston and a starting point to see what their own vision is.
+
+![artboard](media/Artboard_michael.png)
+
 Finally we decided on some key questions we want to ask VK Preston next week but we will obviously ask more based on the answers and where the conversation leads:
 
 - Do you already have a specific vision or aesthetic for this project?
@@ -47,3 +51,4 @@ Finally we decided on some key questions we want to ask VK Preston next week but
 - What is the ideal schedule for this project?
 - What is your preferred communication method?
 
+![Mind map we made in class](media/w2_mind_map.jpg)
