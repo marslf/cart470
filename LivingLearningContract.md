@@ -1,3 +1,7 @@
+# CART 470 Living Learning Contract FALL 2026
+## Michael Vlamis, Mars Lapierre-Furtado, Scarlett Perez-Hernandez, Tatiana Désormeaux, Marjorie Dudemaine
+
+
 **Project Focus**  
 Falls / Chutes is an ongoing multimedia digital installation piece exploring themes of collective crisis, intergenerational memory, and mourning through the four seasons. We are tasked with creating a web-based publication that incorporates the imagery, audio, and text of the greater artwork while also providing information about the exhibition. We are encouraged to explore novel ways of accessing and interacting with works online.
 
