@@ -118,3 +118,5 @@ We decided to each create a rough layout wireframe. It was not absolutely necess
 ![Tatiana's wireframe](../media/week4_layout4.png)
 
 We have another meeting with VK next class and we will show them the concepts and try our absolute best to have them commit a concept / a hybrid of concepts. The teamwork and communication is going great with the team. We create a discord server (previously we only had a groupchat) which allows us to communicate in a more organized way and we have organized it so that we can share ressources and links without them getting lost in the chat. 
+
+## Week 5
