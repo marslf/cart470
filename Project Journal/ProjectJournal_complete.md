@@ -35,7 +35,7 @@ Wish list:
 
 Michael created a beautiful art board to have at least a visual to show VK Preston and a starting point to see what their own vision is.
 
-![artboard](media/Artboard_michael.png)
+![artboard](../media/Artboard_michael.png)
 
 Finally we decided on some key questions we want to ask VK Preston next week but we will obviously ask more based on the answers and where the conversation leads:
 
@@ -49,7 +49,7 @@ Finally we decided on some key questions we want to ask VK Preston next week but
 - What is the ideal schedule for this project?
 - What is your preferred communication method?
 
-![Mind map we made in class](.../media/w2_mind_map.jpg)
+![Mind map we made in class](../media/w2_mind_map.jpg)
 
 ## Week 3
 
@@ -109,12 +109,12 @@ __Meeting notes:__
 
 We decided to each create a rough layout wireframe. It was not absolutely necessary but it would allow us all to take our time, reflect, and be creative and each create something unique and different. It allowed us to cast a wider net and experiment with different unique ideas. We had a little call on Monday to show each other our wireframes and discuss as a team. I am so happy we did that because all 4 wireframes are super interesting and creative in different ways. I don't think we would of had this much variety and creativity if we did it together and made less of them. All 4 bring something unique to the table so we will present them all. After our call Monday, we worked individually again on our own wireframe to simply refine them and add basic animations. 
 
-![my wireframe](media/week4_layout2.png)
+![my wireframe](../media/week4_layout2.png)
 
-![michael's wireframe](media/week4_layout1.png)
+![michael's wireframe](../media/week4_layout1.png)
 
-![Marjorie's wireframe](media/week4_layout3.png)
+![Marjorie's wireframe](../media/week4_layout3.png)
 
-![Tatiana's wireframe](media/week4_layout4.png)
+![Tatiana's wireframe](../media/week4_layout4.png)
 
 We have another meeting with VK next class and we will show them the concepts and try our absolute best to have them commit a concept / a hybrid of concepts. The teamwork and communication is going great with the team. We create a discord server (previously we only had a groupchat) which allows us to communicate in a more organized way and we have organized it so that we can share ressources and links without them getting lost in the chat. 
