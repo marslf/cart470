@@ -1,4 +1,6 @@
-##We had our first client meeting with VK Preston to discuss the project. Here is the meeting recap:
+## Week 3
+
+We had our first client meeting with VK Preston to discuss the project. Here is the meeting recap:
 - started with brief introduction of our skills & initial brainstorming ideas for the project:
     - continuous integration/mesh of images & videos
     - being able to scroll through the seasons
