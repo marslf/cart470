@@ -49,7 +49,7 @@ Finally we decided on some key questions we want to ask VK Preston next week but
 - What is the ideal schedule for this project?
 - What is your preferred communication method?
 
-![Mind map we made in class](media/w2_mind_map.jpg)
+![Mind map we made in class](.../media/w2_mind_map.jpg)
 
 ## Week 3
 
